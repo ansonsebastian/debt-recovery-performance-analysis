@@ -72,7 +72,9 @@ A two-page Power BI executive dashboard:
 - **Page 1 — Executive Summary:** headline KPIs (total loans, value at risk, overall default rate), a combined dollars-at-risk-vs-default-rate chart by region, and a recommendations panel.
 - **Page 2 — Risk Drivers:** debt-to-income threshold heat grid by region, the credit-score null result, and the data-quality notes.
 
-*(Dashboard screenshots in `/images`.)*
+![Executive Summary](Image/page1.png)
+
+![Risk Drivers](Image/page2.png)
 
 ## Recommendations delivered
 
